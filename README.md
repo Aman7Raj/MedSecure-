@@ -24,7 +24,7 @@ MedSecure is a secure, AI-powered platform designed for hospitals and pharmacies
 
 ## Screenshot
 
-![Homepage](front.png)
+![Homepage](Front.png)
 
 Verification:
 ![Homepage](verification.png)
