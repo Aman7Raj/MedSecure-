@@ -57,7 +57,7 @@ Dashboard:
 
 ## ⚡ Quick Start
 * 1. Clone the repo
-git clone https://github.com/yourusername/MedSecure.git
+git clone https://github.com/Aman7Raj/MedSecure.git
 cd MedSecure
 
 * 2. Install dependencies
